@@ -15,4 +15,4 @@ eu sou o aluno pablo
 
 
 
-![.].(https://tenor.com/pt-BR/view/monkeytyping-gif-21936175.)
+![](https://tenor.com/pt-BR/view/monkeytyping-gif-21936175)
